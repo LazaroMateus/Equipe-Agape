@@ -1,0 +1,57 @@
+body{
+    background-color: royalblue; 
+}
+
+p{
+    color: white;
+    font-size: 20px;
+}
+
+h3{
+    color: white;
+    text-decoration: underline;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.borda{
+    background-color: cornflowerblue;
+    border: 2px solid white;
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+}
+
+h1{
+    color: white;
+    background-color: mediumblue;
+    padding: 10px;
+    width: fit-content;
+}
+
+.centro{
+    color: white;
+    background-color: mediumblue;
+    padding: 10px;
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.subtitulo{
+    color: white;
+    background-color:darkslateblue;
+    padding: 3px;
+    width: 60px;
+}
+
+.morro{
+    color: white;
+    background-color:darkslateblue;
+    padding: 3px;
+    width: 110px;
+}
+
+li{
+    color: white;
+    font-size: 20px;
+}
